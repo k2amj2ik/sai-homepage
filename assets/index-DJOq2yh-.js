@@ -132,7 +132,7 @@ Please change the parent <Route path="${d}"> to <Route path="${d==="/"?"*":`${d}
 작가 및 작품 정보를 정리해 알려드립니다.`,image:`${R}images/mockup/feature-search.webp`,images:[`${R}images/mockup/공통_주요기능1_안내이미지1.png`,`${R}images/mockup/공통_주요기능1_안내이미지2.png`,`${R}images/mockup/공통_주요기능1_안내이미지3.png`],layout:"left",bgColor:"white",guideHref:"/guide/art-search"},{id:"price-analysis",category:"AI 작품 시세 분석",title:`간편하게 알아보는
 내 작품 최근 시세`,description:`640만건 경매 기록에서 추출한 유사 작품
 거래 데이터를 분석하여 가격 추이
-리포트를 제공합니다.`,image:`${R}images/mockup/feature-price.webp`,images:[`${R}images/mockup/공통_주요기능2_안내이미지1.png`,`${R}images/mockup/공통_주요기능2_안내이미지2.png`],layout:"right",bgColor:"white",guideHref:"/guide/price-analysis"},{id:"consulting",category:"전문가 1:1 상담",title:`미술자산 관리를 위한
+리포트를 제공합니다.`,image:`${R}images/mockup/feature-price.webp`,images:[`${R}images/mockup/공통_주요기능2_안내이미지1.png`,`${R}images/mockup/공통_주요기능2_안내이미지2.png`],layout:"left",bgColor:"white",guideHref:"/guide/price-analysis"},{id:"consulting",category:"전문가 1:1 상담",title:`미술자산 관리를 위한
 전담 아트 컨설턴트`,description:`SAI와 대화하여 유용한 정보를 얻으셨나요?
 실물 자산을 관리하려면 전문가의 도움도 필요합니다.
 서울옥션블루 아트 전문 컨설턴트가 함께 합니다.`,image:`${R}images/mockup/feature-consulting.webp`,images:[`${R}images/mockup/공통_주요기능3_안내이미지1.png`,`${R}images/mockup/공통_주요기능3_안내이미지2.png`,`${R}images/mockup/공통_주요기능3_안내이미지3.png`],layout:"left",bgColor:"white",guideHref:"/guide/consulting"},{id:"premium-service",category:"미술자산 맞춤 서비스",title:`아트 컬렉팅의 모든 것
