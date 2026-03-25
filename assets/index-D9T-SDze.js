@@ -132,9 +132,8 @@ Please change the parent <Route path="${m}"> to <Route path="${m==="/"?"*":`${m}
 가격을 읽습니다.`,description:`640만 건의 경매 데이터를 기반으로
 유사 작품 가격 흐름과 시세를 분석합니다.`,image:`${O}images/mockup/feature-price.webp`,images:[`${O}images/mockup/공통_주요기능2_안내이미지1.png`,`${O}images/mockup/공통_주요기능2_안내이미지2.png`],layout:"left",bgColor:"white",guideHref:"/guide/price-analysis"},{id:"consulting",category:"전문가 1:1 상담",title:`데이터를 넘어
 전문가와 연결됩니다.`,description:`서울옥션블루 전문 컨설턴트가
-미술자산 관리 전 과정을 함께합니다.`,image:`${O}images/mockup/feature-consulting.webp`,images:[`${O}images/mockup/공통_주요기능3_안내이미지1.png`,`${O}images/mockup/공통_주요기능3_안내이미지2.png`,`${O}images/mockup/공통_주요기능3_안내이미지3.png`],layout:"left",bgColor:"white",guideHref:"/guide/consulting"},{id:"premium-service",category:"미술자산 맞춤 서비스",title:`아트 컬렉팅의 모든 것
-맞춤형 프리미엄 케어`,description:`작품의 구매, 위탁 판매, 수장고 보관, 전문 운송 및 설치 등
-프리미엄 케어 서비스를 연계하여 제공합니다.`,image:`${O}images/bg/feature-premium-bg.webp`,layout:"center",bgColor:"warm"}],Ml={intro:"SAI는 B2C 서비스로 파트너를 통해 고객을 만납니다.",b2bTitle:["파트너사의 경쟁력을 높이는","아트 솔루션 인터페이스를 제공합니다."],cards:[{title:"전략적 비즈니스 협업",description:`파트너사 어플리케이션에 최적화된
+미술자산 관리 전 과정을 함께합니다.`,image:`${O}images/mockup/feature-consulting.webp`,images:[`${O}images/mockup/공통_주요기능3_안내이미지1.png`,`${O}images/mockup/공통_주요기능3_안내이미지2.png`,`${O}images/mockup/공통_주요기능3_안내이미지3.png`],layout:"left",bgColor:"white",guideHref:"/guide/consulting"},{id:"premium-service",category:"미술자산 맞춤 서비스",title:"아트 컬렉팅, 한 번에",description:`구매·위탁·보관·운송·설치까지
+프리미엄 케어로 완성합니다.`,image:`${O}images/bg/feature-premium-bg.webp`,layout:"center",bgColor:"warm"}],Ml={intro:"SAI는 B2C 서비스로 파트너를 통해 고객을 만납니다.",b2bTitle:["파트너사의 경쟁력을 높이는","아트 솔루션 인터페이스를 제공합니다."],cards:[{title:"전략적 비즈니스 협업",description:`파트너사 어플리케이션에 최적화된
 프리미엄 아트 엔진을 탑재하여 브랜드 가치를 제고하세요.`},{title:"독보적인 고객 충성도 확보",description:`VVIP 고객을 위한 차별화된 아트 컨시어지 서비스로
 고객 만족도가 높아집니다.`},{title:"유연한 시스템 연동",description:`SAI 서비스는 파트너사가 운용중인
 기존 모바일 서비스에 신속한 연동이 가능합니다.`},{title:"데이터 기반 고객 인사이트",description:`고객 분포와 이용 트렌드를 분석할 수 있는
