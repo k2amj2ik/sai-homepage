@@ -1,0 +1,18 @@
+<svg width="63" height="66" viewBox="0 0 63 66" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 22">
+<g id="Vector">
+<path d="M11 7C11 4.79086 9.20914 3 7 3C4.79086 3 3 4.79086 3 7V17H11V7ZM14 20H0V7C2.57711e-07 3.13401 3.13401 0 7 0C10.866 0 14 3.13401 14 7V20Z" fill="var(--fill-0, black)"/>
+<path d="M11 7.5C11 2.5 7 0 7 0H55C59 -4.80213e-10 63 3 63 9V66H11C11 66 11 28 11 7.5ZM14 63H60V9C60 6.69875 59.2513 5.24348 58.3789 4.37109C57.4783 3.47048 56.2579 3 55 3H13.1152C13.64 4.27472 14 5.77628 14 7.5V63Z" fill="var(--fill-0, black)"/>
+<path d="M20 10H54V13H20V10Z" fill="var(--fill-0, black)"/>
+<path d="M20 18H54V21H20V18Z" fill="var(--fill-0, black)"/>
+<path d="M20 26H35V29H20V26Z" fill="var(--fill-0, black)"/>
+</g>
+<g id="Vector_2">
+<path d="M22 35H25V57H22V35Z" fill="#A48C4F"/>
+<path d="M52 54V57H22V54H52Z" fill="var(--fill-0, #A48C4F)"/>
+<path d="M27 48H33V52H27V48Z" fill="var(--fill-0, #A48C4F)"/>
+<path d="M35 41H41V52H35V41Z" fill="var(--fill-0, #A48C4F)"/>
+<path d="M44 35H50V52H44V35Z" fill="var(--fill-0, #A48C4F)"/>
+</g>
+</g>
+</svg>
