@@ -1,5 +1,5 @@
-const CACHE_NAME = 'sai-v1';
-const BASE = '/sai-homepage/';
+const CACHE_NAME = 'sai-v3';
+const BASE = '/';
 
 const PRECACHE_URLS = [
   BASE,
